@@ -1,2 +1,3 @@
-# 1-project
+# github work
+
 this is my first repostry
